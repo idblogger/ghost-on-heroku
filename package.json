@@ -10,7 +10,7 @@
   "private": true,
   "version": "3.2.0",
   "dependencies": {
-    "attila": "github:zutrinken/attila#1.13.0",
+    "mapache-godofredoninja": "github:idblogger/mapache-godofredoninja#3.1.0",
     "bleak": "github:zutrinken/bleak#1.4.0",
     "casper": "github:tryghost/Casper#3.0.4",
     "ghost": "^3.2.0",
